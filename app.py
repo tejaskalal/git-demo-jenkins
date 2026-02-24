@@ -1,1 +1,1 @@
-Print("Hello , This is a for just practice purpose")
+print("Hello , This is a for just practice purpose")
